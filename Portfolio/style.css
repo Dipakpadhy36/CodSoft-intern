@@ -422,7 +422,7 @@ body {
     height: 50px;
     width: 150px;
     background-color: rgb(2, 2, 2);
-    color: yellow;
+    color: rgb(0, 247, 255);
     border-radius: 50px;
     border: 2px solid rgb(1, 1, 1);
   }
@@ -431,6 +431,7 @@ body {
     cursor: pointer;
     height: 50px;
     width: 150px;
+    padding: 10px;
     background-color: rgb(0, 247, 255);
     color: black;
     border-radius: 50px;
@@ -441,7 +442,7 @@ body {
     height:50px;
     width: 150px;
     background-color: black;
-    color: yellow;
+    color: rgb(0, 247, 255);
     border-radius: 50px;
     border: 2px solid black;
   }
